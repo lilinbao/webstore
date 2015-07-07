@@ -1,0 +1,12 @@
+
+/target/
+/build/
+
+
+
+
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
